@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trusty-charmer-460921-c9",
+  "private_key_id": "c09111e05f8fff95cc5dc2ffbf42f1a67235d302",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtAh6KquYSuqp2\nErRjrYFuURw4Bc3P8/s3kEDVsvbkzSnaUWgryWuwu05iVWAOEXS0qyIOVERDkgx3\n21Ej5F9HOdDG4c8bCCJSj6MKegLMquvIpIQq5+ZRnUd/JYBWsuieISLTjZWSe2kU\nTsxcUdGmiDHsGeySs4F5uHBPVvezgfSerX5c13XBCn4Nm3EP8Nb/UdazbhS3c7XK\nrZnVtS0e8NBTRHNYTUl0zzFlE1qAda4mJt/TW/weODAUNTdbWtZ88gy0tsRXVUUw\nkMUoKCjtBIqcrJQdF7Qx3KUAZCZ0nabVxKmsAtaf3AjYyBy4KxesSJ+/TNFxMJPw\nsrixe+u/AgMBAAECggEAAzAZm/iC/ZYojSOfGBvnjKU8XeCz5o1z8/wmfBZfuKuT\n7KZSj98wRGg1jSS0yZpf8IxOt/Df9fBhzNUvufeVTql6dvYZbA596dBXv41FmLvb\n7sbvrVK3yon/xt0yb8zwJSnH8hn9YMU0lHk3O5d0w4Ey8+TH/sc4yLz+fmSRDK+w\n8mMPrUHUWwCzLJSczs7fgJj+owGGChVMEqeUfKUJK6kO2nDfykngzixn2jittdxr\nI8UjHAxN0oC0aUhmJofp/mcN3SL47HB5fqocISIggLBOtDYmo7tmjZ/kCy/q8+z+\nWmQlrmjoqwcHRaBhSaBuzwDNqTEbPkg1/4noVsSkQQKBgQDnp8fuivh+DSFW3EXx\noCUg0tCwb3sIPaAI7tuBfP/ommvG1ISZqmGphKHxzH6M77HCn/R/PU1YaltfLGNq\nzs8NFW86fQhzZbudLZSGrYVM/J9nrRWSRfyPS2QWoZ24c9uHGDLMmGvXJFL2KwYo\nVcRMQiRSCA80XcNiSwprDh5/TwKBgQC/MI52ZfH1k3blHo3upIWapHh+MvTHBrq2\nSAJw/uzZMAOdJZn7b6papg/8+5h2tFo4phs2BYTfe4fpKPDeqvlm44Pzq+3Q20G8\ni5dWd50rjzdj8w4M43pPVeJIWraLCVWGjyo6JkodFwgIydBuPDe5pGTyedrnO5Dr\nJlA50nkwkQKBgC5QxlF0KZCSMXs7WSShHys72wubjl6sa4W9s9dk1Yl87lV3gfdz\nMEmDQhmlCBxHhCPkdS7HY+JsiU4zAsGFDbKQ+YcZHopr6aHYThzLLp6g14IUAf8X\nzRIdQaqgr3cEevy8otNzGgSOt6OOIJIJ69BPXRGlmNygboMFe9TBoulTAoGAV7R+\npfG+PVmYgSKzGXZ/k6E/ZSUbBPIhVN1TwWIwZLGR9tT4/k8LZuonC3afSlURzkrk\n0LNXcO3KOzt8w6jLIFfegDmurtDmJwgiNJhKkWDxl/g3ydHQmfRcCbUTaFSv1zp1\ntJc8CHw4Q0/RPcCCD7dKV7FuqgS5RiYdR2k2DwECgYA2pHmJecsgd6sc7nhd36cU\ncIvaLCmJuQXj3vMHc5hfNvB6OZ/n8WzIjlwAgBXHByfMTOxMHgpqMtqB1pyQOthf\n2h54Tki8Y7ljIHn0KwrIAZZ9/4BDdQyYPUr1YRMnyQ8O9upJG3iJ1hs/8b6jB21T\nyoYjV/hn49iMtWP9hw6uxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-service-account@trusty-charmer-460921-c9.iam.gserviceaccount.com",
+  "client_id": "107696979027352840906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etl-service-account%40trusty-charmer-460921-c9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

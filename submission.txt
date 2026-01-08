@@ -1,0 +1,12 @@
+# Menjalankan proses utama ETL
+python main.py
+
+# Menjalankan pengujian unit test di dalam direktori tests
+python -m unittest discover tests
+
+# Menjalankan pengujian dengan coverage
+coverage run -m unittest discover tests
+coverage report -m
+
+# Tautan Google Spreadsheet hasil
+https://docs.google.com/spreadsheets/d/1udOdJigke9ffYoKAJvHwP0UOLVvEHgqIlTyzjseRDiM/edit?usp=sharing
